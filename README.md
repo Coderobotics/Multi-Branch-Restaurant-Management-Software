@@ -5,7 +5,7 @@ Smart Restaurant is a ASP.Net MVC5 based Multi Branch Restaurant Management Soft
 
 Administrator is able to see billing reports, total transaction of today report, home delivery, takeaway report and etc from a single window. Create and manage multiple outlets and handle the whole operations of each restaurant outlet in easy way. Smart Restaurant Manage vendor registration details, Set price for vendor for respective items, Manage vendor billing, billing report, and update balance & vendor balance report. Manage menu categories, menu items and pricing for items and assign menu items to outlet etc. Manage purchase details, purchase reports and purchase returns details. Manage stock transfer details, stock transfer report, stock receive report & stock return report. Manage offer/ discount items, quantity of items and no of days valid for this offer and manage it reports. Create billing for selected table, collect payment print order, dispatch order and generate various reports etc.
 
-<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/restaurant365_10.jpg">
+<img src="https://www.aspscriptsonline.com/frontend/assets/templates/1738358536_efdc2a5cef517d8d53b1.webp">
 
 <b>Super admin has the following core features:</b>
 
@@ -41,5 +41,15 @@ Administrator is able to see billing reports, total transaction of today report,
 <li>Operator Master</li>
 <li>Kitchen Stock Master</li>
 </ul>
-<b>More details and download link:</b><br>
-<b>https://www.aspscriptsonline.com/product/restaurant-software/</b>
+
+More details and download script
+https://www.aspscriptsonline.com/product/asp.net-mvc5-multi-branch-restaurant-management
+
+If you're looking for readymade php scripts
+https://www.phpscriptsonline.com/products
+
+If you're looking for readymade ASP.Net, C# software source code
+https://www.aspscriptsonline.com/products
+
+If you're looking for digital marketing services, insights, AI-powered strategies.
+https://www.coderobotics.com/blog
